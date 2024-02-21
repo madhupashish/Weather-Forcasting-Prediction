@@ -13,9 +13,8 @@ Today's Highlights: Stay updated on crucial weather information, including UV In
 # Explore AeroForecast
 ### 🌦️ Discover the AeroForecast Demo: Click Here 👉👉 https://madhupashish.github.io/Weather-Forcasting-Prediction/
 
-### Getting Started
-Clone the repository: git clone https://github.com/wasimtikki120/AeroForecast-Interactive-Weather-App.git
-Open index.html in your preferred browser to launch the application.
+# Getting Started
+### Clone the repository: https://github.com/madhupashish/Weather-Forcasting-Prediction
 
 ### Usage
 Enter a location in the search bar to retrieve the current weather details for that area.
