@@ -1,4 +1,4 @@
-# AeroForecast - Revolutionary Weather App
+# AeroForecast - Revolutionary Weather Prediction App
 ## Introduction
 Welcome to AeroForecast, a cutting-edge and stylish weather forecasting application. AeroForecast not only delivers precise weather predictions but also ensures an innovative and sleek user interface.
 
